@@ -1,0 +1,9 @@
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\bin\Debug\SimpleExpressionEvaluator.exe.config
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\bin\Debug\SimpleExpressionEvaluator.exe
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\bin\Debug\SimpleExpressionEvaluator.pdb
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Debug\SimpleExpressionEvaluator.Properties.Resources.resources
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Debug\SimpleExpressionEvaluator.csproj.GenerateResource.Cache
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Debug\SimpleExpressionEvaluator.exe
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Debug\SimpleExpressionEvaluator.pdb
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Debug\SimpleExpressionEvaluator.FormEvaluator.resources
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Debug\SimpleExpressionEvaluator.csprojResolveAssemblyReference.cache

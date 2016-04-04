@@ -1,0 +1,6 @@
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\bin\Release\SimpleExpressionEvaluator.exe.config
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\bin\Release\SimpleExpressionEvaluator.exe
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Release\SimpleExpressionEvaluator.FormEvaluator.resources
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Release\SimpleExpressionEvaluator.Properties.Resources.resources
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Release\SimpleExpressionEvaluator.csproj.GenerateResource.Cache
+C:\Gary\bits\ExpEval\SimpleExpressionEvaluator\SimpleExpressionEvaluator\obj\Release\SimpleExpressionEvaluator.exe
