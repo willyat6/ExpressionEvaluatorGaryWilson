@@ -60,7 +60,8 @@
             this.listBoxEvaluationResults.FormattingEnabled = true;
             this.listBoxEvaluationResults.Location = new System.Drawing.Point(35, 107);
             this.listBoxEvaluationResults.Name = "listBoxEvaluationResults";
-            this.listBoxEvaluationResults.Size = new System.Drawing.Size(376, 277);
+            this.listBoxEvaluationResults.ScrollAlwaysVisible = true;
+            this.listBoxEvaluationResults.Size = new System.Drawing.Size(912, 303);
             this.listBoxEvaluationResults.TabIndex = 2;
             // 
             // labelExpression
@@ -85,7 +86,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(452, 422);
+            this.ClientSize = new System.Drawing.Size(988, 455);
             this.Controls.Add(this.labelEvalResults);
             this.Controls.Add(this.labelExpression);
             this.Controls.Add(this.listBoxEvaluationResults);
